@@ -1,5 +1,0 @@
-{
-"isPrimaryAlignment" : "true",
-"isProperPair" : "true",
-"mapQuality" : ">=40"
-}
